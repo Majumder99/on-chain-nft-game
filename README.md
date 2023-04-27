@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+<h1>NFT on chain smart contract</h1>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+<p>It means that all the nft data will be on the blockchain not on the ipfs</p>
+<p>
+  Click <a href="https://www.youtube.com/watch?v=8FJvY4zXvPE">here</a> for the
+  resource.
+</p>
